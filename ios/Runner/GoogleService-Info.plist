@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>125815235646-1jedbb91evoqnpc46hr8f3ddla0p63el.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.125815235646-1jedbb91evoqnpc46hr8f3ddla0p63el</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBCCTMdZVlpW6nfoQszAFgQ4atTgLSXoKE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>125815235646</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sixteenbrains.gtkFlutter</string>
+	<key>PROJECT_ID</key>
+	<string>fir-flutter-codelab-ae50c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-flutter-codelab-ae50c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:125815235646:ios:31343ced089b4e43379d6f</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-flutter-codelab-ae50c.firebaseio.com</string>
+</dict>
+</plist>

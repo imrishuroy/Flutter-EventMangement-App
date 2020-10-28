@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "125815235646",
+    "firebase_url": "https://fir-flutter-codelab-ae50c.firebaseio.com",
+    "project_id": "fir-flutter-codelab-ae50c",
+    "storage_bucket": "fir-flutter-codelab-ae50c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125815235646:android:62859d60a37820f9379d6f",
+        "android_client_info": {
+          "package_name": "com.sixteenbrains.gtk_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125815235646-peji58rao46gq0jtg1luvpvi83147plj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDDMAoEuXdM85g_UTg5W7zamBGoAz39So"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125815235646-peji58rao46gq0jtg1luvpvi83147plj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "125815235646-1jedbb91evoqnpc46hr8f3ddla0p63el.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sixteenbrains.gtkFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
